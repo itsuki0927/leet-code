@@ -12,7 +12,7 @@
  * @param {TreeNode} root
  * @return {number}
  */
-var minDepth = function(root) {
+var minDepth = function (root) {
   // 根结点为空
   if (root === null) return 0
   let ans = 1
@@ -36,7 +36,7 @@ var minDepth = function(root) {
  * 深度搜索
  *
  */
-var minDepth2 = function(root) {
+var minDepth2 = function (root) {
   // 根结点为空
   if (root === null) return 0
   // 如果是叶子结点 则返回当前节点
@@ -45,6 +45,7 @@ var minDepth2 = function(root) {
   const m1 = minDepth(root.left)
   const m2 = minDepth(root.right)
 
+  //这里其中一个节点为空，说明m1和m2有一个必然为0，所以可以返回m1 + m2 + 1;
   if (root.left === null || root.right === null) return m1 + m2 + 1
 
   return Math.min(m1, m2) + 1
