@@ -14,3 +14,4 @@ leet-code 刷题进行中...
 ## array(数组)
 
 1. [transpose 转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/)
+2. [majorityElement 主要元素](https://leetcode-cn.com/problems/find-majority-element-lcci/)
