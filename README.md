@@ -20,3 +20,4 @@ leet-code 刷题进行中...
 
 1. [deleteNode 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)
 2. [reverseList 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
+3. [hasCycle 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
