@@ -21,3 +21,4 @@ leet-code 刷题进行中...
 1. [deleteNode 删除链表中的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/)
 2. [reverseList 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
 3. [hasCycle 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
+4. [kthToLast 返回倒数的第 k 个节点](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/)
