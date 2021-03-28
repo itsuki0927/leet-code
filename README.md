@@ -15,3 +15,8 @@ leet-code 刷题进行中...
 
 1. [transpose 转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/)
 2. [majorityElement 主要元素](https://leetcode-cn.com/problems/find-majority-element-lcci/)
+
+## linked-list(链表)
+
+1. [deleteNode 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)
+2. [reverseList 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
