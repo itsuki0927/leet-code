@@ -24,3 +24,4 @@ leet-code 刷题进行中...
 3. [hasCycle 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
 4. [kthToLast 返回倒数的第 k 个节点](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/)
 5. [isPalindrome 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)
+6. [middleNode 链表的中间节点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)
