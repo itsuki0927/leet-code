@@ -25,3 +25,4 @@ leet-code 刷题进行中...
 4. [kthToLast 返回倒数的第 k 个节点](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/)
 5. [isPalindrome 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)
 6. [middleNode 链表的中间节点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)
+7. [removeElements 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)
