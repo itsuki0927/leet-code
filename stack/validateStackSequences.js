@@ -1,6 +1,7 @@
 /**
  * 解题思路: 模拟栈入栈出栈，如果stack栈顶和popped栈顶相同,
  * 则同时出站，否则入栈，如果栈为空，表示是一个合法的出栈顺序
+ *
  * @param {number[]} pushed
  * @param {number[]} popped
  * @return {boolean}

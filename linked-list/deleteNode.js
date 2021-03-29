@@ -33,7 +33,7 @@ var deleteNode = function (head, val) {
   return fake.next
 }
 
-// 使用递归
+// 解题思路: 使用递归
 var deleteNode = function (head, val) {
   if (head == null) return null
   if (head.val == val) return head.next

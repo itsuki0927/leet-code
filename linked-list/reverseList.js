@@ -1,5 +1,6 @@
 /**
  * 解题思路: 利用双指针prev、current来反转
+ *
  * @param {ListNode} head
  * @return {ListNode}
  */

@@ -1,11 +1,4 @@
 /**
- * Definition for singly-linked list.
- * function ListNode(val) {
- *     this.val = val;
- *     this.next = null;
- * }
- */
-/**
  * 解题思路: 快慢指针, 先让快指针走k步, 然后快慢指针同时往后走, 快指针走到null时, 慢指针就是要找的倒数第k个节点
  * @param {ListNode} head
  * @param {number} k
