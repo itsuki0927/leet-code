@@ -26,3 +26,4 @@ leet-code 刷题进行中...
 5. [isPalindrome 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)
 6. [middleNode 链表的中间节点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)
 7. [removeElements 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)
+8. [removeDuplicateNodes 移除重复节点](https://leetcode-cn.com/problems/remove-duplicate-node-lcci/)
