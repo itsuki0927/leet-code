@@ -28,3 +28,4 @@ leet-code 刷题进行中...
 7. [removeElements 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)
 8. [removeDuplicateNodes 移除重复节点](https://leetcode-cn.com/problems/remove-duplicate-node-lcci/)
 9. [getIntersectionNode 链表相交](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/)
+10. [deleteDuplicates 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)
