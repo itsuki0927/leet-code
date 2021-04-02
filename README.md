@@ -31,3 +31,4 @@ leet-code 刷题进行中...
 10. [deleteDuplicates 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)
 11. [rotateRight 旋转列表](https://leetcode-cn.com/problems/rotate-list/)
 12. [detectCycle 环路检测](https://leetcode-cn.com/problems/linked-list-cycle-lcci/)
+13. [copyRandomList 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
