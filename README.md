@@ -35,3 +35,4 @@ leet-code 刷题进行中...
 14. [getDecimalValue 二进制链表转整数](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
 15. [reverseBetween 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
 16. [mergeTwoLists 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
+17. [sortList 排序链表](https://leetcode-cn.com/problems/sort-list/)
