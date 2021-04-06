@@ -32,3 +32,4 @@ leet-code 刷题进行中...
 11. [rotateRight 旋转列表](https://leetcode-cn.com/problems/rotate-list/)
 12. [detectCycle 环路检测](https://leetcode-cn.com/problems/linked-list-cycle-lcci/)
 13. [copyRandomList 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
+14. [getDecimalValue 二进制链表转整数](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
