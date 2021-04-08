@@ -38,6 +38,7 @@ leet-code 刷题进行中...
 17. [sortList 排序链表](https://leetcode-cn.com/problems/sort-list/)
 18. [swapPairs 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
 19. [reorderList 重排链表](https://leetcode-cn.com/problems/reorder-list/)
+20. [mergeInBetween 合并两个链表](https://leetcode-cn.com/problems/merge-in-between-linked-lists/)
 
 ## sort
 
