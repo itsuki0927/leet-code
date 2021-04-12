@@ -43,6 +43,7 @@ leet-code 刷题进行中...
 22. [insertionSortList 对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/)
 23. [swapNodes 交换链表中的节点](https://leetcode-cn.com/problems/swapping-nodes-in-a-linked-list/)
 23. [addTwoNumbers 链表相加](https://leetcode-cn.com/problems/sum-lists-lcci/)
+24. [partition 分隔链表](https://leetcode-cn.com/problems/partition-list/)
 
 ## sort
 
