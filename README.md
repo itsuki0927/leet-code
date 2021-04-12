@@ -40,6 +40,7 @@ leet-code 刷题进行中...
 19. [reorderList 重排链表](https://leetcode-cn.com/problems/reorder-list/)
 20. [mergeInBetween 合并两个链表](https://leetcode-cn.com/problems/merge-in-between-linked-lists/)
 21. [oddEvenList 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)
+22. [insertionSortList 对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/)
 
 ## sort
 
