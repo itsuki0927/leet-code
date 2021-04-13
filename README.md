@@ -48,3 +48,4 @@ leet-code 刷题进行中...
 ## sort
 
 1. mergeSort 归并排序
+2. [reversePairs 数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)
