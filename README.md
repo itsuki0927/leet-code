@@ -52,4 +52,5 @@ leet-code 刷题进行中...
 2. [reversePairs 数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)
 3. [reversePairs2 翻转对](https://leetcode-cn.com/problems/reverse-pairs/)
 4. [sortColors 颜色分类](https://leetcode-cn.com/problems/sort-colors/)
+5. [sortArray 排序数组](https://leetcode-cn.com/problems/sort-an-array/)
 
