@@ -1,6 +1,6 @@
 function sort(list, left, right) {
   if (left === right) return
-  const mid = left + Math.floor((right - left) / 2)
+  const mid = left + ((right - left) >> 1)
   sort(list, left, mid)
   sort(list, mid + 1, right)
   merge(list, left, mid + 1, right)

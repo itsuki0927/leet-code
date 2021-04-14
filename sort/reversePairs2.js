@@ -4,7 +4,7 @@ const merge = (arr, l, m, r) => {
     p1 = l,
     p2 = m + 1,
     ret = 0
-    
+
   while (p1 <= m && p2 <= r) {
     if (arr[p1] > 2 * arr[p2]) {
       ret += m - p1 + 1
@@ -27,7 +27,7 @@ const merge = (arr, l, m, r) => {
 const mergeSort = (arr, l, r) => {
   if (l === r) return 0
 
-  const mid = l + Math.floor((r - l) >> 1)
+  const mid = l + ((r - l) >> 1)
   return mergeSort(arr, l, mid) + mergeSort(arr, mid + 1, r) + merge(arr, l, mid, r)
 }
 

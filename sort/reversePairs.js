@@ -21,11 +21,9 @@ const merge = (arr, l, m, r) => {
 
 const mergeSort = (arr, l, r) => {
   if (l === r) return 0
-  const mid = l + Math.floor((r - l) >> 1)
+  const mid = l + ((r - l) >> 1)
 
-  return (
-    mergeSort(arr, l, mid) + mergeSort(arr, mid + 1, r) + merge(arr, l, mid, r)
-  )
+  return mergeSort(arr, l, mid) + mergeSort(arr, mid + 1, r) + merge(arr, l, mid, r)
 }
 
 /**

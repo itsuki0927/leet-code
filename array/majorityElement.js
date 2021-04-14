@@ -7,7 +7,7 @@
 var majorityElement2 = function (nums) {
   if (nums == null || nums.length == 0) return -1
   const length = nums.length
-  const mid = Math.floor(length / 2)
+  const mid = length >> 1
   const map = {}
 
   for (let i = 0; i < length; i++) {
