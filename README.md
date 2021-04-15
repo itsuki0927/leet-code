@@ -42,15 +42,14 @@ leet-code 刷题进行中...
 21. [oddEvenList 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)
 22. [insertionSortList 对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/)
 23. [swapNodes 交换链表中的节点](https://leetcode-cn.com/problems/swapping-nodes-in-a-linked-list/)
-23. [addTwoNumbers 链表相加](https://leetcode-cn.com/problems/sum-lists-lcci/)
-24. [partition 分隔链表](https://leetcode-cn.com/problems/partition-list/)
+24. [addTwoNumbers 链表相加](https://leetcode-cn.com/problems/sum-lists-lcci/)
+25. [partition 分隔链表](https://leetcode-cn.com/problems/partition-list/)
 
 ## sort
 
 1. mergeSort 归并排序
 2. quickSort 快速排序
-2. [reversePairs 数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)
-3. [reversePairs2 翻转对](https://leetcode-cn.com/problems/reverse-pairs/)
-4. [sortColors 颜色分类](https://leetcode-cn.com/problems/sort-colors/)
-5. [sortArray 排序数组](https://leetcode-cn.com/problems/sort-an-array/)
-
+3. [reversePairs 数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)
+4. [reversePairs2 翻转对](https://leetcode-cn.com/problems/reverse-pairs/)
+5. [sortColors 颜色分类](https://leetcode-cn.com/problems/sort-colors/)
+6. [sortArray 排序数组](https://leetcode-cn.com/problems/sort-an-array/)
