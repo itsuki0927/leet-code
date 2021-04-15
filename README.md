@@ -54,3 +54,4 @@ leet-code 刷题进行中...
 5. [reversePairs2 翻转对](https://leetcode-cn.com/problems/reverse-pairs/)
 6. [sortColors 颜色分类](https://leetcode-cn.com/problems/sort-colors/)
 7. [sortArray 排序数组](https://leetcode-cn.com/problems/sort-an-array/)
+8. [findKthLargest 数组中的第 k 个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
