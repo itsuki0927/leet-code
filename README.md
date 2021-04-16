@@ -61,6 +61,7 @@ leet-code 刷题进行中...
 2. [findKthLargest 数组中的第 k 个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
 3. [nthUglyNumber 丑数II](https://leetcode-cn.com/problems/ugly-number-ii/)
 4. [topKFrequent 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)
+5. [frequencySort 根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)
 
 ## math
 
