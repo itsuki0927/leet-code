@@ -60,6 +60,7 @@ leet-code 刷题进行中...
 1. [kthSmallest 有序矩阵中第 K 小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 2. [findKthLargest 数组中的第 k 个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
 3. [nthUglyNumber 丑数II](https://leetcode-cn.com/problems/ugly-number-ii/)
+4. [topKFrequent 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)
 
 ## math
 
