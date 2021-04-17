@@ -44,6 +44,7 @@ leet-code 刷题进行中...
 23. [swapNodes 交换链表中的节点](https://leetcode-cn.com/problems/swapping-nodes-in-a-linked-list/)
 24. [addTwoNumbers 链表相加](https://leetcode-cn.com/problems/sum-lists-lcci/)
 25. [partition 分隔链表](https://leetcode-cn.com/problems/partition-list/)
+26. [kClosest 最接近原点的 k 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/)
 
 ## sort
 
@@ -63,6 +64,7 @@ leet-code 刷题进行中...
 4. [topKFrequent 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)
 5. [frequencySort 根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)
 6. [topKFrequentWord 前 K 个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/)
+7. [kClosest 最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/)
 
 ## math
 
