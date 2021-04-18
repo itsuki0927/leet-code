@@ -65,6 +65,7 @@ leet-code 刷题进行中...
 5. [frequencySort 根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)
 6. [topKFrequentWord 前 K 个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/)
 7. [kClosest 最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/)
+8. [rearrangeBarcodes 距离相等的条形码](https://leetcode-cn.com/problems/distant-barcodes/)
 
 ## math
 
