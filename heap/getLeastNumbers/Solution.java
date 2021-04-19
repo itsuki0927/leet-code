@@ -1,3 +1,7 @@
+package getLeastNumbers;
+
+import java.util.PriorityQueue;
+
 public class Solution {
     public static int[] getLeastNumbers(int[] arr, int k) {
         PriorityQueue<Integer> queue = new PriorityQueue<>((o1, o2) -> o2 - o1);

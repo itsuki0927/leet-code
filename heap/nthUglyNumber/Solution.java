@@ -1,3 +1,9 @@
+package nthUglyNumber;
+
+import java.util.HashSet;
+import java.util.PriorityQueue;
+import java.util.Set;
+
 /**
  * 解题思路: 使用优先队列
  * 1. 一开始将最小的丑数1放入队列

@@ -1,3 +1,7 @@
+package lastStoneWeight;
+
+import java.util.PriorityQueue;
+
 public class Solution {
     public static int lastStoneWeight(int[] stones) {
         PriorityQueue<Integer> queue = new PriorityQueue<>((o1, o2) -> o2 - o1);

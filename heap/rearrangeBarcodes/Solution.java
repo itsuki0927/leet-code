@@ -1,6 +1,11 @@
+package rearrangeBarcodes;
+
+import java.util.Comparator;
+import java.util.PriorityQueue;
+
 /**
  * 解题思路: 哈希表 + 大根堆 + 贪心思想
- * 
+ *
  * 1. 用counts统计每个数的次数
  * 2. 建立大根堆, 每次拿出频率最高的两个数, 相邻放入, 如果还有剩下的就返回大根堆中
  * 3. 最后处理剩下的数

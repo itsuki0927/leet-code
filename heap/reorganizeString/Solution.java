@@ -1,3 +1,7 @@
+package reorganizeString;
+
+import java.util.PriorityQueue;
+
 /**
  * 解题思路: 同rearrangeBarcodes, 这里加了一个判断, 如果一个字符数大于数组的一般以上就不能重构
  */
