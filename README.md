@@ -68,6 +68,7 @@ leet-code 刷题进行中...
 8. [rearrangeBarcodes 距离相等的条形码](https://leetcode-cn.com/problems/distant-barcodes/)
 9. [reorganizeString 重构字符串](https://leetcode-cn.com/problems/reorganize-string/)
 10. [lastStoneWeight 最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight/)
+11. [findMaximizedCapital IPO](https://leetcode-cn.com/problems/ipo/)
 
 ## math
 
