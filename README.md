@@ -67,6 +67,7 @@ leet-code 刷题进行中...
 7. [kClosest 最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/)
 8. [rearrangeBarcodes 距离相等的条形码](https://leetcode-cn.com/problems/distant-barcodes/)
 9. [reorganizeString 重构字符串](https://leetcode-cn.com/problems/reorganize-string/)
+10. [lastStoneWeight 最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight/)
 
 ## math
 
