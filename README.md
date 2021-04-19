@@ -69,6 +69,7 @@ leet-code 刷题进行中...
 9. [reorganizeString 重构字符串](https://leetcode-cn.com/problems/reorganize-string/)
 10. [lastStoneWeight 最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight/)
 11. [findMaximizedCapital IPO](https://leetcode-cn.com/problems/ipo/)
+12. [getLeastNumbers 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)
 
 ## math
 
