@@ -73,6 +73,7 @@ leet-code 刷题进行中...
 13. [lastStoneWeight 最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight/)
 14. [isPossible 分割数组为连续子序列](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/)
 15. [maximumScore 移除石子的最大得分](https://leetcode-cn.com/problems/maximum-score-from-removing-stones/)
+16. [furthestBuilding 可以到达的最远建筑](https://leetcode-cn.com/problems/furthest-building-you-can-reach/)
 
 ## math
 
