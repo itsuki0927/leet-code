@@ -74,6 +74,7 @@ leet-code 刷题进行中...
 14. [isPossible 分割数组为连续子序列](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/)
 15. [maximumScore 移除石子的最大得分](https://leetcode-cn.com/problems/maximum-score-from-removing-stones/)
 16. [furthestBuilding 可以到达的最远建筑](https://leetcode-cn.com/problems/furthest-building-you-can-reach/)
+17. [getKthMagicNumber 第k个数](https://leetcode-cn.com/problems/get-kth-magic-number-lcci/s)
 
 ## math
 
