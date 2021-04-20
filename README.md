@@ -71,6 +71,7 @@ leet-code 刷题进行中...
 11. [findMaximizedCapital IPO](https://leetcode-cn.com/problems/ipo/)
 12. [getLeastNumbers 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)
 13. [lastStoneWeight 最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight/)
+14. [isPossible 分割数组为连续子序列](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/)
 
 ## math
 
