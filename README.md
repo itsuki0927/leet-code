@@ -80,7 +80,7 @@ leet-code 刷题进行中...
 
 ## math
 
-1. [isUgle 丑数](https://leetcode-cn.com/problems/ugly-number/)
+1. [isUgly 丑数](https://leetcode-cn.com/problems/ugly-number/)
 
 ## greedy(贪心)
 
