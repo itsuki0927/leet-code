@@ -75,6 +75,8 @@ leet-code 刷题进行中...
 15. [maximumScore 移除石子的最大得分](https://leetcode-cn.com/problems/maximum-score-from-removing-stones/)
 16. [furthestBuilding 可以到达的最远建筑](https://leetcode-cn.com/problems/furthest-building-you-can-reach/)
 17. [getKthMagicNumber 第k个数](https://leetcode-cn.com/problems/get-kth-magic-number-lcci/s)
+18. [maxSlidingWindow 滑动窗口中最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)
+19. [smallestDistancePair 找出第k小的距离对](https://leetcode-cn.com/problems/find-k-th-smallest-pair-distance/)
 
 ## math
 
