@@ -85,3 +85,4 @@ leet-code 刷题进行中...
 ## greedy(贪心)
 
 1. [findContentChildren 分发饼干](https://leetcode-cn.com/problems/assign-cookies/)
+2. [wiggleMaxLength 摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/)
