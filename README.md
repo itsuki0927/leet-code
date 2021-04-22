@@ -92,3 +92,4 @@ leet-code 刷题进行中...
 ## tree(树)
 
 1. [preorderTraversal 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
+2. [inorderTraversal 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
