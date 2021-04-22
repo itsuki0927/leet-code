@@ -88,3 +88,7 @@ leet-code 刷题进行中...
 2. [wiggleMaxLength 摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/)
 3. [removeKdigits 移掉k位数字](https://leetcode-cn.com/problems/remove-k-digits/)
 4. [removeDuplicateLetters 去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/)
+
+## tree(树)
+
+1. [preorderTraversal 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
