@@ -87,3 +87,4 @@ leet-code 刷题进行中...
 1. [findContentChildren 分发饼干](https://leetcode-cn.com/problems/assign-cookies/)
 2. [wiggleMaxLength 摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/)
 3. [removeKdigits 移掉k位数字](https://leetcode-cn.com/problems/remove-k-digits/)
+4. [removeDuplicateLetters 去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/)
