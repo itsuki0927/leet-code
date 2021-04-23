@@ -94,3 +94,4 @@ leet-code 刷题进行中...
 1. [preorderTraversal 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
 2. [inorderTraversal 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
 3. [postorderTraversal 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)
+4. [connect 填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)
