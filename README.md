@@ -99,3 +99,4 @@ leet-code 刷题进行中...
 6. [averageOfLevels 二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/)
 7. [levelOrder 二叉树的层级遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
 8. [levelOrderBottom 二叉树的层级遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)
+9. [nAnyLevelOrder N 叉树的层级遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)
