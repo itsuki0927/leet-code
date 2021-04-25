@@ -91,6 +91,7 @@ leet-code 刷题进行中...
 5. [maxNumber 拼接最大数](https://leetcode-cn.com/problems/create-maximum-number/)
 6. [maximumSwap 最大交换](https://leetcode-cn.com/problems/maximum-swap/)
 7. [mostCompetitive 找出最具竞争力的子序列](https://leetcode-cn.com/problems/find-the-most-competitive-subsequence/)
+8. [maxSubArray 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)
 
 ## tree(树)
 
