@@ -89,6 +89,7 @@ leet-code 刷题进行中...
 3. [removeKdigits 移掉k位数字](https://leetcode-cn.com/problems/remove-k-digits/)
 4. [removeDuplicateLetters 去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/)
 5. [maxNumber 拼接最大数](https://leetcode-cn.com/problems/create-maximum-number/)
+6. [maximumSwap 最大交换](https://leetcode-cn.com/problems/maximum-swap/)
 
 ## tree(树)
 
