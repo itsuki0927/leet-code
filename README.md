@@ -92,6 +92,7 @@ leet-code 刷题进行中...
 6. [maximumSwap 最大交换](https://leetcode-cn.com/problems/maximum-swap/)
 7. [mostCompetitive 找出最具竞争力的子序列](https://leetcode-cn.com/problems/find-the-most-competitive-subsequence/)
 8. [maxSubArray 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)
+9. [isSubsequence 判断子序列](https://leetcode-cn.com/problems/is-subsequence/)
 
 ## tree(树)
 
