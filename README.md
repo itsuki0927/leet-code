@@ -112,3 +112,7 @@ leet-code 刷题进行中...
 10. [rightSideView 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/)
 11. [connect2 填充每一个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/)
 12. [lowestCommonAncestor 首个共同祖先](https://leetcode-cn.com/problems/first-common-ancestor-lcci/)
+
+## recursion(递归)
+
+1. [maxDepth 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
