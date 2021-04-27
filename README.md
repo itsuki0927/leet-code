@@ -119,3 +119,4 @@ leet-code 刷题进行中...
 
 1. [maxDepth 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
 2. [multiply 递归乘法](https://leetcode-cn.com/problems/recursive-mulitply-lcci/)
+3. [swapPairs 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
