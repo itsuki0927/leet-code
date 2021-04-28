@@ -44,7 +44,7 @@ leet-code 刷题进行中...
 23. [swapNodes 交换链表中的节点](https://leetcode-cn.com/problems/swapping-nodes-in-a-linked-list/)
 24. [addTwoNumbers 链表相加](https://leetcode-cn.com/problems/sum-lists-lcci/)
 25. [partition 分隔链表](https://leetcode-cn.com/problems/partition-list/)
-26. [src.kClosest 最接近原点的 k 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/)
+26. [kClosest 最接近原点的 k 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/)
 
 ## sort
 
@@ -58,25 +58,25 @@ leet-code 刷题进行中...
 
 ## heap
 
-1. [src.kthSmallest 有序矩阵中第 K 小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+1. [kthSmallest 有序矩阵中第 K 小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 2. [findKthLargest 数组中的第 k 个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
-3. [src.nthUglyNumber 丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/)
-4. [src.topKFrequent 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)
-5. [src.frequencySort 根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)
-6. [src.topKFrequentWord 前 K 个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/)
-7. [src.kClosest 最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/)
-8. [src.rearrangeBarcodes 距离相等的条形码](https://leetcode-cn.com/problems/distant-barcodes/)
-9. [src.reorganizeString 重构字符串](https://leetcode-cn.com/problems/reorganize-string/)
-10. [src.lastStoneWeight 最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight/)
-11. [src.findMaximizedCapital IPO](https://leetcode-cn.com/problems/ipo/)
-12. [src.getLeastNumbers 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)
-13. [src.lastStoneWeight 最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight/)
-14. [src.isPossible 分割数组为连续子序列](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/)
-15. [src.maximumScore 移除石子的最大得分](https://leetcode-cn.com/problems/maximum-score-from-removing-stones/)
-16. [src.furthestBuilding 可以到达的最远建筑](https://leetcode-cn.com/problems/furthest-building-you-can-reach/)
-17. [src.getKthMagicNumber 第k个数](https://leetcode-cn.com/problems/get-kth-magic-number-lcci/s)
-18. [src.maxSlidingWindow 滑动窗口中最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)
-19. [src.smallestDistancePair 找出第k小的距离对](https://leetcode-cn.com/problems/find-k-th-smallest-pair-distance/)
+3. [nthUglyNumber 丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/)
+4. [topKFrequent 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)
+5. [frequencySort 根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)
+6. [topKFrequentWord 前 K 个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/)
+7. [kClosest 最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/)
+8. [rearrangeBarcodes 距离相等的条形码](https://leetcode-cn.com/problems/distant-barcodes/)
+9. [reorganizeString 重构字符串](https://leetcode-cn.com/problems/reorganize-string/)
+10. [lastStoneWeight 最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight/)
+11. [findMaximizedCapital IPO](https://leetcode-cn.com/problems/ipo/)
+12. [getLeastNumbers 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)
+13. [lastStoneWeight 最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight/)
+14. [isPossible 分割数组为连续子序列](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/)
+15. [maximumScore 移除石子的最大得分](https://leetcode-cn.com/problems/maximum-score-from-removing-stones/)
+16. [furthestBuilding 可以到达的最远建筑](https://leetcode-cn.com/problems/furthest-building-you-can-reach/)
+17. [getKthMagicNumber 第k个数](https://leetcode-cn.com/problems/get-kth-magic-number-lcci/s)
+18. [maxSlidingWindow 滑动窗口中最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)
+19. [smallestDistancePair 找出第k小的距离对](https://leetcode-cn.com/problems/find-k-th-smallest-pair-distance/)
 
 ## math
 
