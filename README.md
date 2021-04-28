@@ -100,6 +100,7 @@ leet-code 刷题进行中...
 14. [largestSumAfterKNegations K 次取反后最大化的数组和](https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations/)
 15. [canCompleteCircuit 加油站](https://leetcode-cn.com/problems/gas-station/)
 16. [candy 分发糖果](https://leetcode-cn.com/problems/candy/submissions/)
+17. [lemonadeChange 柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/)
 
 ## tree(树)
 
@@ -116,6 +117,7 @@ leet-code 刷题进行中...
 11. [connect2 填充每一个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/)
 12. [lowestCommonAncestor 首个共同祖先](https://leetcode-cn.com/problems/first-common-ancestor-lcci/)
 13. [isSymmetric 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
+14. [trie 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)
 
 ## recursion(递归)
 

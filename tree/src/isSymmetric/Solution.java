@@ -1,7 +1,10 @@
 package isSymmetric;
 
+import java.util.LinkedList;
+import java.util.Queue;
+
 /**
- * 解题思路: 递归
+ * 解题思路: 迭代
  *
  * @author: itsuki
  * @create: 2021-04-27 15:07
@@ -9,19 +12,22 @@ package isSymmetric;
 class Solution {
     public boolean isSymmetric(TreeNode root) {
         if (root == null) return true;
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.offer(root.left);
+        queue.offer(root.right);
+        while (!queue.isEmpty()) {
+            TreeNode left = queue.poll();
+            TreeNode right = queue.poll();
 
-        return isSymmetricMain(root.left, root.right);
-    }
+            if (left == null && right == null) continue;
+            if (left == null || right == null || left.val != right.val) return false;
 
-    public boolean isSymmetricMain(TreeNode left, TreeNode right) {
-        // 如果left不为空、right为空
-        if (left != null && right == null) return false;
-        // 如果left为空、right不为空
-        if (left == null && right != null) return false;
-        // 如果left、right都为空
-        if (left == null && right == null) return true;
-
-        return left.val == right.val && isSymmetricMain(left.left, right.right) && isSymmetricMain(left.right, right.left);
+            queue.offer(left.left);
+            queue.offer(right.right);
+            queue.offer(left.right);
+            queue.offer(right.left);
+        }
+        return true;
     }
 }
 
