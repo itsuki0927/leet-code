@@ -99,6 +99,7 @@ leet-code 刷题进行中...
 13. [jump 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/)
 14. [largestSumAfterKNegations K 次取反后最大化的数组和](https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations/)
 15. [canCompleteCircuit 加油站](https://leetcode-cn.com/problems/gas-station/)
+16. [candy 分发糖果](https://leetcode-cn.com/problems/candy/submissions/)
 
 ## tree(树)
 
