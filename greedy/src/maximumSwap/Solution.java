@@ -17,22 +17,25 @@ public class Solution {
 
     public static int maximumSwap(int num) {
         String s = String.valueOf(num);
-        int n = s.length();
+        int length = s.length();
         char[] chars = s.toCharArray();
         int[] indexes = new int[10];
 
         // 记录每个数字出现的最后下标
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < length; i++) {
             indexes[chars[i] - '0'] = i;
         }
 
+        int n, index;
         // 从左至右找, 找到位置最大的数进行交换
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < length; i++) {
             // 从后往前找
-            for (int j = 9; j > chars[i] - '0'; j--) {
+            n = chars[i] - '0';
+            for (int j = 9; j > n; j--) {
                 // 如果后面的索引大于当前字符的索引进行交换
-                if (indexes[j] > i) {
-                    swap(chars, i, j);
+                index = indexes[j];
+                if (index > i) {
+                    swap(chars, i, index);
                     // 只允许交换一次
                     return Integer.parseInt(String.valueOf(chars));
                 }
@@ -42,6 +45,6 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-        System.out.println(maximumSwap(7632));
+        System.out.println(maximumSwap(7236));
     }
 }
