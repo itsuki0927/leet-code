@@ -101,6 +101,7 @@ leet-code 刷题进行中...
 15. [canCompleteCircuit 加油站](https://leetcode-cn.com/problems/gas-station/)
 16. [candy 分发糖果](https://leetcode-cn.com/problems/candy/submissions/)
 17. [lemonadeChange 柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/)
+18. [reconstructQueue 根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)
 
 ## tree(树)
 
