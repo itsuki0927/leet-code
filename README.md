@@ -102,6 +102,7 @@ leet-code 刷题进行中...
 16. [candy 分发糖果](https://leetcode-cn.com/problems/candy/submissions/)
 17. [lemonadeChange 柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/)
 18. [reconstructQueue 根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)
+19. [advantageCount 优势洗牌](https://leetcode-cn.com/problems/advantage-shuffle/)
 
 ## tree(树)
 
