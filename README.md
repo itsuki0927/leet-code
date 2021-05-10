@@ -104,6 +104,7 @@ leet-code 刷题进行中...
 18. [reconstructQueue 根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)
 19. [advantageCount 优势洗牌](https://leetcode-cn.com/problems/advantage-shuffle/)
 20. [carPooling 拼车](https://leetcode-cn.com/problems/car-pooling/)
+21. [merge 合并区间](https://leetcode-cn.com/problems/merge-intervals/)
 
 ## tree(树)
 
