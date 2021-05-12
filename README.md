@@ -129,3 +129,7 @@ leet-code 刷题进行中...
 2. [multiply 递归乘法](https://leetcode-cn.com/problems/recursive-mulitply-lcci/)
 3. [swapPairs 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
 4. [isSymmetric 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
+
+## binary-search(二分法)
+
+1. [搜索二维矩阵 searchMatrix](https://leetcode-cn.com/problems/search-a-2d-matrix/)
