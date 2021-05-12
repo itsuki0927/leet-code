@@ -133,3 +133,4 @@ leet-code 刷题进行中...
 ## binary-search(二分法)
 
 1. [搜索二维矩阵 searchMatrix](https://leetcode-cn.com/problems/search-a-2d-matrix/)
+2. [寻找峰值 findPeakElement](https://leetcode-cn.com/problems/find-peak-element/)
