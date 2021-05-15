@@ -140,3 +140,4 @@ leet-code 刷题进行中...
 6. [排列硬币 arrangeCoins](https://leetcode-cn.com/problems/arranging-coins/)
 7. [有序数组中的单一元素 singleNonDuplicate](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/)
 8. [寻找比目标字母大的最小字母 nextGreatestLetter](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/)
+9. [爱吃香蕉的珂珂 minEatingSpeed](https://leetcode-cn.com/problems/koko-eating-bananas/)
