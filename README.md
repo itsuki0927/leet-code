@@ -138,3 +138,4 @@ leet-code 刷题进行中...
 4. [有序矩阵中第 K 小的元素 kthSmallest](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 5. [寻找右区间 findRightInterval](https://leetcode-cn.com/problems/find-right-interval/)
 6. [排列硬币 arrangeCoins](https://leetcode-cn.com/problems/arranging-coins/)
+7. [有序数组中的单一元素 singleNonDuplicate](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/)
