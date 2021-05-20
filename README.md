@@ -142,3 +142,4 @@ leet-code 刷题进行中...
 8. [寻找比目标字母大的最小字母 nextGreatestLetter](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/)
 9. [爱吃香蕉的珂珂 minEatingSpeed](https://leetcode-cn.com/problems/koko-eating-bananas/)
 10. [袋子里最少数目的球 minimumSize](https://leetcode-cn.com/problems/minimum-limit-of-balls-in-a-bag/)
+11. [两球之间的磁力 maxDistance](https://leetcode-cn.com/problems/magnetic-force-between-two-balls/)
