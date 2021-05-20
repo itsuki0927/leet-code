@@ -143,3 +143,4 @@ leet-code 刷题进行中...
 9. [爱吃香蕉的珂珂 minEatingSpeed](https://leetcode-cn.com/problems/koko-eating-bananas/)
 10. [袋子里最少数目的球 minimumSize](https://leetcode-cn.com/problems/minimum-limit-of-balls-in-a-bag/)
 11. [两球之间的磁力 maxDistance](https://leetcode-cn.com/problems/magnetic-force-between-two-balls/)
+12. [分割数组的最大值 splitArray](https://leetcode-cn.com/problems/split-array-largest-sum/)
