@@ -150,3 +150,4 @@ leet-code 刷题进行中...
 
 1. [无重复字符的最长子串 lengthOfLongestSubstring](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 2. [最小覆盖子串 minWindow](https://leetcode-cn.com/problems/minimum-window-substring/)
+3. [长度最小的子数组 minSubArrayLen](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)
