@@ -145,3 +145,7 @@ leet-code 刷题进行中...
 11. [两球之间的磁力 maxDistance](https://leetcode-cn.com/problems/magnetic-force-between-two-balls/)
 12. [分割数组的最大值 splitArray](https://leetcode-cn.com/problems/split-array-largest-sum/)
 13. [下标对中的最大距离 maxDistanceBetweenPairValues](https://leetcode-cn.com/problems/maximum-distance-between-a-pair-of-values/)
+
+## sliding-window(滑动窗口)
+
+1. [无重复字符的最长子串 lengthOfLongestSubstring](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
