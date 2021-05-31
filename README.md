@@ -153,3 +153,4 @@ leet-code 刷题进行中...
 3. [长度最小的子数组 minSubArrayLen](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)
 4. [替换后的最长重复字符 characterReplacement](https://leetcode-cn.com/problems/longest-repeating-character-replacement/)
 5. [最大连续1的个数III longestOnes](https://leetcode-cn.com/problems/max-consecutive-ones-iii/)
+6. [字符串的排列 checkIsclusion](https://leetcode-cn.com/problems/permutation-in-string/)
