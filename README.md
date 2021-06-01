@@ -162,3 +162,4 @@ leet-code 刷题进行中...
 ## two-pointers(双指针)
 
 1. [盛最多水的容器 maxArea](https://leetcode-cn.com/problems/container-with-most-water/)
+2. [三数之和 threeSum](https://leetcode-cn.com/problems/3sum/)
