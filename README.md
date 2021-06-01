@@ -157,3 +157,4 @@ leet-code 刷题进行中...
 7. [最长湍流子数组 maxTurbulenceSize](https://leetcode-cn.com/problems/longest-turbulent-subarray/)
 8. [K个不同整数的子数组 subarraysWithKDistinct](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/)
 9. [乘积小于K的子数组 numSubarrayProductLessThanK](https://leetcode-cn.com/problems/subarray-product-less-than-k/)
+10. [删掉一个元素以后全为 1 的最长子数组 longestSubarray](https://leetcode-cn.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
