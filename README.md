@@ -158,3 +158,7 @@ leet-code 刷题进行中...
 8. [K个不同整数的子数组 subarraysWithKDistinct](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/)
 9. [乘积小于K的子数组 numSubarrayProductLessThanK](https://leetcode-cn.com/problems/subarray-product-less-than-k/)
 10. [删掉一个元素以后全为 1 的最长子数组 longestSubarray](https://leetcode-cn.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
+
+## two-pointers(双指针)
+
+1. [盛最多水的容器 maxArea](https://leetcode-cn.com/problems/container-with-most-water/)
