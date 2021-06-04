@@ -14,6 +14,7 @@ leet-code 刷题进行中...
 8. [PeekingIterator 顶端迭代器](https://leetcode-cn.com/problems/peeking-iterator/)
 9. [largestRectangleArea 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)
 10. [trap 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)
+11. [dailyTemperatures 每日温度](https://leetcode-cn.com/problems/daily-temperatures/)
 
 ## array(数组)
 
