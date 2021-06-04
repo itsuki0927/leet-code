@@ -12,6 +12,7 @@ leet-code 刷题进行中...
 6. [evalRPN 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)
 7. [isValid 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
 8. [PeekingIterator 顶端迭代器](https://leetcode-cn.com/problems/peeking-iterator/)
+9. [largestRectangleArea 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)
 
 ## array(数组)
 
