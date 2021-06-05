@@ -18,6 +18,7 @@ leet-code 刷题进行中...
 12. [removeDuplicateLetters 去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/)
 12. [nextGreaterElement 下一个更大元素I](https://leetcode-cn.com/problems/next-greater-element-i/)
 12. [nextGreaterElement2 下一个更大元素II](https://leetcode-cn.com/problems/next-greater-element-ii/)
+13. [StockSpanner 股票价格跨度](https://leetcode-cn.com/problems/online-stock-span/)
 
 ## array(数组)
 
