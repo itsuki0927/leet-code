@@ -61,10 +61,11 @@ leet-code 刷题进行中...
 1. mergeSort 归并排序
 2. quickSort 快速排序
 3. heapSort 堆排序
-4. [reversePairs 数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)
-5. [reversePairs2 翻转对](https://leetcode-cn.com/problems/reverse-pairs/)
-6. [sortColors 颜色分类](https://leetcode-cn.com/problems/sort-colors/)
-7. [sortArray 排序数组](https://leetcode-cn.com/problems/sort-an-array/)
+4. insertionSort 插入排序
+5. [reversePairs 数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)
+6. [reversePairs2 翻转对](https://leetcode-cn.com/problems/reverse-pairs/)
+7. [sortColors 颜色分类](https://leetcode-cn.com/problems/sort-colors/)
+8. [sortArray 排序数组](https://leetcode-cn.com/problems/sort-an-array/)
 
 ## heap
 
