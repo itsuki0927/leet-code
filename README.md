@@ -19,6 +19,7 @@ leet-code 刷题进行中...
 12. [nextGreaterElement 下一个更大元素I](https://leetcode-cn.com/problems/next-greater-element-i/)
 12. [nextGreaterElement2 下一个更大元素II](https://leetcode-cn.com/problems/next-greater-element-ii/)
 13. [StockSpanner 股票价格跨度](https://leetcode-cn.com/problems/online-stock-span/)
+14. [maxSlidingWindow 滑动窗口中最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)
 
 ## array(数组)
 
