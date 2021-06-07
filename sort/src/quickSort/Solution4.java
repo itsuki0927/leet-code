@@ -30,18 +30,25 @@ public class Solution4 {
         int randomIdx = RANDOM.nextInt(right - left + 1) + left;
         swap(nums, left, randomIdx);
         int lt = left;
+        // 默认将left的位置作为pivot
         int pivot = nums[left];
         int gt = right + 1;
+        // 所以下标为left+1开始
         int i = left + 1;
         while (i < gt) {
-            if (nums[i] < pivot) {
+            int n = nums[i];
+            if (n < pivot) {
+                // 向右扩大左边界
                 swap(nums, ++lt, i++);
-            } else if (nums[i] == pivot) {
+            } else if (n == pivot) {
                 i++;
             } else {
+                // 向左扩大右边界
                 swap(nums, --gt, i);
             }
         }
+        // lt表示的是<pivot的左边界
+        // 需要把left归位到它应该的位置 所以需要进行一次swap
         swap(nums, left, lt);
         quickSort(nums, left, lt - 1);
         quickSort(nums, gt, right);
@@ -66,7 +73,7 @@ public class Solution4 {
     }
 
     public static void main(String[] args) {
-        int[] nums = new int[]{6, 7, 1, 2, 2, 3, 8, 4, 5, 3, 3, 3, 3, 3, 3};
+        int[] nums = new int[]{6, 7, 1, 9, 23, 8, 4, 5, 3};
         Solution4 solution = new Solution4();
         solution.sortArray(nums);
         // solution.partition(nums, 0, nums.length - 1);

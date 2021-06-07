@@ -19,11 +19,11 @@ public class Solution2 {
     }
 
     public void quickSort(int[] nums, int left, int right) {
+        if (right - left <= INSERTION_SORT_THRESHOLD) {
+            insertionSort(nums, left, right);
+            return;
+        }
         if (left >= right) return;
-        // if (right - left <= INSERTION_SORT_THRESHOLD) {
-        //     insertionSort(nums, left, right);
-        //     return;
-        // }
 
         int randomIdx = RANDOM.nextInt(right - left + 1) + left;
         swap(nums, left, randomIdx);
@@ -34,17 +34,17 @@ public class Solution2 {
     }
 
     public int partition(int[] nums, int left, int right) {
-
         int pivot = nums[left];
         int lt = left;
         for (int i = left + 1; i <= right; i++) {
             if (nums[i] < pivot) {
-                lt++;
+                // 不断的扩大左边界
+                ++lt;
                 swap(nums, i, lt);
             }
         }
+        // 最后与左边界做交换
         swap(nums, lt, left);
-
         return lt;
     }
 

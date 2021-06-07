@@ -20,10 +20,10 @@ public class Solution3 {
 
     public void quickSort(int[] nums, int left, int right) {
         if (left >= right) return;
-        // if (right - left <= INSERTION_SORT_THRESHOLD) {
-        //     insertionSort(nums, left, right);
-        //     return;
-        // }
+        if (right - left <= INSERTION_SORT_THRESHOLD) {
+            insertionSort(nums, left, right);
+            return;
+        }
 
         int randomIdx = RANDOM.nextInt(right - left + 1) + left;
         swap(nums, left, randomIdx);
@@ -34,11 +34,12 @@ public class Solution3 {
     }
 
     public int partition(int[] nums, int left, int right) {
-
         int pivot = nums[left];
         int lt = left + 1;
         int gt = right;
         while (true) {
+            // 如果lt++之后和gt--之后相等 && lt<=right && nums[lt] < pivot
+            // 此时lt还会加一, 所以边界应该为gt
             while (lt <= right && nums[lt] < pivot) {
                 lt++;
             }
@@ -46,11 +47,11 @@ public class Solution3 {
                 gt--;
             }
             if (lt >= gt) break;
-
             swap(nums, lt, gt);
             lt++;
             gt--;
         }
+        // 所以这里是跟gt做交换
         swap(nums, left, gt);
         return gt;
     }
