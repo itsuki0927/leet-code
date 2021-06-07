@@ -67,6 +67,7 @@ leet-code 刷题进行中...
 7. [sortColors 颜色分类](https://leetcode-cn.com/problems/sort-colors/)
 8. [sortArray 排序数组](https://leetcode-cn.com/problems/sort-an-array/)
 9. [findKthLargest 数组中的第 k 个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
+10. [merge 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)
 
 ## heap
 
