@@ -179,3 +179,7 @@ leet-code 刷题进行中...
 3. [最接近的三数之和 threeSumClosest](https://leetcode-cn.com/problems/3sum-closest/)
 4. [接雨水 trap](https://leetcode-cn.com/problems/trapping-rain-water/)
 5. [四数之和 fourSum](https://leetcode-cn.com/problems/4sum/k)
+
+## union-find(并查集)
+
+1. [equationsPossible 等式方程的可满足性](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/)
