@@ -183,3 +183,4 @@ leet-code 刷题进行中...
 ## union-find(并查集)
 
 1. [equationsPossible 等式方程的可满足性](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/)
+2. [numIslands 岛屿问题](https://leetcode-cn.com/problems/number-of-islands/)
