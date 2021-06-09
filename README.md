@@ -185,3 +185,4 @@ leet-code 刷题进行中...
 1. [equationsPossible 等式方程的可满足性](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/)
 2. [numIslands 岛屿问题](https://leetcode-cn.com/problems/number-of-islands/)
 3. [findRedundantConnection 冗余连接](https://leetcode-cn.com/problems/redundant-connection/)
+4. [makeConnected 连通网络的操作次数](https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected/)
