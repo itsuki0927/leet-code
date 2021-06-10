@@ -187,3 +187,4 @@ leet-code 刷题进行中...
 3. [findRedundantConnection 冗余连接](https://leetcode-cn.com/problems/redundant-connection/)
 4. [makeConnected 连通网络的操作次数](https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected/)
 5. [longestConsecutive 最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/)
+6. [minIncrementForUnique 使数组唯一的最小增量](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/)
