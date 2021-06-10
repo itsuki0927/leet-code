@@ -186,3 +186,4 @@ leet-code 刷题进行中...
 2. [numIslands 岛屿问题](https://leetcode-cn.com/problems/number-of-islands/)
 3. [findRedundantConnection 冗余连接](https://leetcode-cn.com/problems/redundant-connection/)
 4. [makeConnected 连通网络的操作次数](https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected/)
+5. [longestConsecutive 最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/)
