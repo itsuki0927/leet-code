@@ -118,6 +118,7 @@ leet-code 刷题进行中...
 19. [advantageCount 优势洗牌](https://leetcode-cn.com/problems/advantage-shuffle/)
 20. [carPooling 拼车](https://leetcode-cn.com/problems/car-pooling/)
 21. [merge 合并区间](https://leetcode-cn.com/problems/merge-intervals/)
+22. [minIncrementForUnique 使数组唯一的最小增量](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/)
 
 ## tree(树)
 
