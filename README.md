@@ -145,6 +145,7 @@ leet-code 刷题进行中...
 4. [isSymmetric 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
 5. [fib 斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/)
 6. [mergeTwoLists 合并两个有序列表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
+7. [findTilt 二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt/)
 
 ## binary-search(二分法)
 
