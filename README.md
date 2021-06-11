@@ -144,6 +144,7 @@ leet-code 刷题进行中...
 3. [swapPairs 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
 4. [isSymmetric 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
 5. [fib 斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/)
+6. [mergeTwoLists 合并两个有序列表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
 
 ## binary-search(二分法)
 
