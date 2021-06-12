@@ -147,6 +147,7 @@ leet-code 刷题进行中...
 6. [mergeTwoLists 合并两个有序列表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
 7. [findTilt 二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt/)
 8. [minDiffInBST 二叉搜索树节点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/)
+9. [rangeSumBST 二叉搜索树的范围和](https://leetcode-cn.com/problems/range-sum-of-bst/)
 
 ## binary-search(二分法)
 
