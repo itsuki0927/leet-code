@@ -200,3 +200,4 @@ leet-code 刷题进行中...
 ## backtracking(回溯)
 
 1. [permute 全排列](https://leetcode-cn.com/problems/permutations/)
+2. [permuteUnique 全排列II](https://leetcode-cn.com/problems/permutations-ii/)
