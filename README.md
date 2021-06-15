@@ -203,3 +203,4 @@ leet-code 刷题进行中...
 2. [permuteUnique 全排列II](https://leetcode-cn.com/problems/permutations-ii/)
 3. [subsets 子集](https://leetcode-cn.com/problems/subsets/)
 4. [subsetsWithDup 子集II](https://leetcode-cn.com/problems/subsets-ii/)
+5. [combine 组合](https://leetcode-cn.com/problems/combinations/)
