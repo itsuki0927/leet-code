@@ -207,3 +207,4 @@ leet-code 刷题进行中...
 6. [combinationSum 组合总和](https://leetcode-cn.com/problems/combination-sum/)
 7. [combinationSum2 组合总和II](https://leetcode-cn.com/problems/combination-sum-ii/)
 8. [pathSum 路径总和](https://leetcode-cn.com/problems/path-sum-ii/)
+9. [getPermutation 排列序列](https://leetcode-cn.com/problems/permutation-sequence/)
