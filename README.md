@@ -208,3 +208,4 @@ leet-code 刷题进行中...
 7. [combinationSum2 组合总和II](https://leetcode-cn.com/problems/combination-sum-ii/)
 8. [pathSum 路径总和](https://leetcode-cn.com/problems/path-sum-ii/)
 9. [getPermutation 排列序列](https://leetcode-cn.com/problems/permutation-sequence/)
+10. [binaryTreePath 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/)
