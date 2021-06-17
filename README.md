@@ -210,3 +210,7 @@ leet-code 刷题进行中...
 9. [getPermutation 排列序列](https://leetcode-cn.com/problems/permutation-sequence/)
 10. [binaryTreePath 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/)
 11. [findSubsequences 递增子序列](https://leetcode-cn.com/problems/increasing-subsequences/)
+
+## dynamic-programming(动态规划)
+
+1. [fib 斐波那契数列](https://leetcode-cn.com/problems/fibonacci-number/)
