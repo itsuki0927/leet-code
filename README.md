@@ -213,6 +213,8 @@ leet-code 刷题进行中...
 
 ## dynamic-programming(动态规划)
 
+### 重复子问题
+
 1. [fib 斐波那契数列](https://leetcode-cn.com/problems/fibonacci-number/)
 2. [translateNum 把数字转化为字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/)
 3. [numDecodings 解码方法](https://leetcode-cn.com/problems/decode-ways/)
